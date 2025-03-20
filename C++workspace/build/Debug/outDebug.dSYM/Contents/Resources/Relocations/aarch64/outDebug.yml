@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/parkjaehong/C++workspace/build/Debug/outDebug'
+relocations:     []
+...
